@@ -1,0 +1,5 @@
+PIL==1.1.7
+param==1.0
+imagen==1.0
+matplotlib
+
